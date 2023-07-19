@@ -1,31 +1,31 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id=".+G1l2JQ7/zOHAuP(`Ic" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id=";gw20AMy?Xh^iDd),XTi"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="ayU((gcBZ/XCiEX];j_h" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="=3xR%+B7L^1wmSMso9U="><field name="LEDS">`
         # # # # # 
         # # # # # 
         # # # # # 
         # # # # # 
         # # # # #
-        `</field><next><block type="device_show_leds" id="wfrW!Gnc#9qR4$n~MVd%"><field name="LEDS">`
+        `</field><next><block type="device_show_leds" id="56`PI^]?(hy}9cv(l.l1"><field name="LEDS">`
         . # # # # 
         . # . . . 
         . # # # # 
         . # . . . 
         . # # # #
-        `</field><next><block type="device_show_leds" id="Ow4}APoq?=|F^^F,X1/E"><field name="LEDS">`
+        `</field><next><block type="device_show_leds" id="QRlxkP^iDuCnJte99%4A"><field name="LEDS">`
         . # # # . 
         . # . . . 
         . # # # . 
         . # . . . 
         . # # # .
-        `</field><next><block type="device_show_leds" id="oVs9w=Lj2RpwRCn[{gZx"><field name="LEDS">`
+        `</field><next><block type="device_show_leds" id="?T:_9[z6D)wrRi2lNM/#"><field name="LEDS">`
         . # # . . 
         . # . . . 
         . # # . . 
         . # . . . 
         . # # . .
-        `</field><next><block type="device_show_leds" id="]+PI?+F#M-dU4$D2E6/y"><field name="LEDS">`
+        `</field><next><block type="device_show_leds" id="7yi1Tj$={||`KN!RPF{^"><field name="LEDS">`
         . . . . . 
         . . . . . 
         . . # . . 
         . . . . . 
         . . . . .
-        `</field></block></next></block></next></block></next></block></next></block></statement></block><block type="device_forever" id="MG@5m-!k%QHFIdh@I!]=" x="205" y="0"><statement name="HANDLER"><block type="device_show_number" id="E7ne2!uMnn7:PV;#eEDV"><value name="number"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_temperature" id=".DC#5Ly`.{*/Uw+YO0E/"></block></value></block></statement></block></xml>
+        `</field></block></next></block></next></block></next></block></next></block></statement></block><block type="device_forever" id="+lj8,3[XK68MM;brHytZ" x="237" y="0"><statement name="HANDLER"><block type="device_show_number" id="b!}}DS_B%}fv(Y8AgnRL"><value name="number"><block type="device_temperature" id="I!|P2[s$lPLpw6e{KmaS"></block></value></block></statement></block></xml>
