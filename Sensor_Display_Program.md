@@ -247,7 +247,3 @@ basic.showLeds(`
 basic.forever(function () {
     basic.showNumber(input.temperature())
 })```
-
-## **Step 8** - Click on the thermoter to change the temperature.
-Once you change the temperature, it will Display on the simulator. 
-
