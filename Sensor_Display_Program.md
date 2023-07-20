@@ -206,7 +206,7 @@ basic.forever(function () {
     basic.showNumber()
 })```
 
-## **Step 7** - Last, drag a input temperature and place it into the basic forever loop.
+## **Step 7** - Drag a input temperature and place it into the basic forever loop.
 Drag a ``||input.temperature()||`` and place it into ``||basic.showNumber ()||``
 ```blocks
 basic.showLeds(`
@@ -247,3 +247,7 @@ basic.showLeds(`
 basic.forever(function () {
     basic.showNumber(input.temperature())
 })```
+
+## **Step 8** - Click on the thermoter to change the temperature.
+Once you change the temperature, it will Display on the simulator. 
+
