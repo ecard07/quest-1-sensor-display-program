@@ -153,9 +153,7 @@ basic.showLeds(`
 
 
 ## Step 6
-Drag a ``||basic.showNumber()||`` and place it into ``||basic.forever(function())||`` loop
-Finish your animation
-
+Drag a ``||basic.showNumber()||`` and place it into ``||basic.forever()||`` loop 
 
 ```blocks
 basic.showLeds(`
