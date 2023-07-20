@@ -209,7 +209,7 @@ basic.forever(function () {
 })```
 
 ## **Step 7** - Drag  **temperature** from the **Input** folder and place it into the **basic.forever loop**.
-Click on the **Input** folder and drag a ``||input.temperature()||`` and place it into ``||basic.showNumber ()||``
+Click on the ``||input.input||`` folder and drag a ``||input.temperature()||`` and place it into ``||basic.showNumber ()||``
 ```blocks
 basic.showLeds(`
     # # # # #
