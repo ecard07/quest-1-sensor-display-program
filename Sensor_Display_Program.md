@@ -191,6 +191,8 @@ basic.showLeds(`
 . . . . .
 . . . . .
 `)
+```
+```blocks
 basic.forever(function () {
     basic.showNumber()
 })
@@ -236,6 +238,8 @@ basic.showLeds(`
 . . . . .
 . . . . .
 `)
+```
+``` blocks
 basic.forever(function () {
     basic.showNumber(input.temperature())
 })
