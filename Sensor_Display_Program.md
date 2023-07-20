@@ -11,7 +11,7 @@ basic.showLeds(`
     `)```
 
 ## **Step 2** - Drag a second basic showLeds  into the first basic showLeds.
-Click on **basic** to select the ``||basic.showLeds||``. Then, drag a ``||basic.showLeds||`` into ``||basic.showLeds||``
+Click on **basic** to select the ``||basic.showLeds||``. Then, drag a ``||basic.showLeds||`` place it into ``||basic.showLeds||``
 ```blocks
 basic.showLeds(`
     # # # # #
@@ -29,7 +29,7 @@ basic.showLeds(`
     `)```
 
 ## **Step 3** - Drag a third basic showLeds into the second basic showLeds.
-Drag a ``||basic.showLeds||`` into ``||basic.showLeds||``
+Repeat step 2. Drag  ``||basic.showLeds||`` place it into ``||basic.showLeds||``
 ```blocks
 basic.showLeds(`
     # # # # #
@@ -53,7 +53,7 @@ basic.showLeds(`
     . # # # .
     `)```
 
-## **Step 4** - Drag a fourth basic showLeds into the third basic showLeds.
+## **Step 4** - Drag a fourth basic showLeds place it into the third basic showLeds.
 Drag a ``||basic.showLeds||`` into ``||basic.showLeds||``
 ```blocks
 basic.showLeds(`
@@ -85,7 +85,7 @@ basic.showLeds(`
     . # # . .
     `)```
 
-## **Step 5** - Drag a fifth basic showLeds into the fourth basic showLeds.
+## **Step 5** - Drag a fifth basic showLeds place it into the fourth basic showLeds.
 Drag a ``||basic.showLeds||`` into ``||basic.showLeds||``
 ```blocks
 basic.showLeds(`
@@ -165,7 +165,7 @@ basic.showLeds(`
 basic.forever(function ()```
 
 ## **Step 7** - Drag a basic show Number and place it into the basic forever loop.
-Drag a ``||basic.showNumber ()||`` and place it into ``||basic.forever(function ()||`` loop
+Drag a ``||basic.showNumber()||`` and place it into ``||basic.forever(function())||`` loop
 ```blocks
 basic.showLeds(`
     # # # # #
