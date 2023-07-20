@@ -2,7 +2,7 @@
 
 
 ## **Step 1** - Drag  **showLeds**  into the Start blocks.
-Under the ``||toolbox||`` Click on ``||basic.basic||`` folder to select the ``||basic.showLeds||``. 
+Under the **toolbox** Click on ``||basic.basic||`` folder to select the ``||basic.showLeds||``. 
 Then, drag the ``||basic.showLeds||`` into ``||basic.Start||`` block.
 Think about what you want to animate. How you want them to display in 5 steps. 
 For example, the letter **E**
@@ -223,7 +223,7 @@ basic.forever(function () {
 })```
 
 ## **Step 7** - Drag  **temperature** from the **Input** folder and place it into the **basic.forever loop**.
-Under the ``||Toolbox||`` Click on the ``||input.input||`` folder and drag a ``||input.temperature()||``  and place it into ``||basic.showNumber ()||``
+Under the **toolbox** Click on the ``||input.input||`` folder and drag a ``||input.temperature()||``  and place it into ``||basic.showNumber ()||``
 
 ```blocks
 basic.showLeds(`
