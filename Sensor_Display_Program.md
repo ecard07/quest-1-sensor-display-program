@@ -15,7 +15,8 @@ basic.showLeds(`
 # # # # #
 # # # # #
 # # # # #
-`)```
+`)
+```
 
 
 ## Step 2
@@ -36,7 +37,8 @@ basic.showLeds(`
 . # # # #
 . # . . .
 . # # # #
-`)```
+`)
+```
 
 
 ## Step 3
@@ -63,7 +65,8 @@ basic.showLeds(`
 . # # # .
 . # . . .
 . # # # .
-`)```
+`)
+```
 
 
 ## Step 4
@@ -191,9 +194,9 @@ basic.showLeds(`
 . . . . .
 `)
 basic.forever(function () {
+    basic.showNumber()
 })
 ```
-
 
 ## Step 7
 Under the **toolbox** Click on the ``||input.input||`` folder and drag a ``||input.temperature()||`` and place it into ``||basic.showNumber ()||``
@@ -236,8 +239,10 @@ basic.showLeds(`
 . . . . .
 `)
 basic.forever(function () {
+    basic.showNumber(input.temperature())
 })
 ```
+
 
 
 ## Step 7
