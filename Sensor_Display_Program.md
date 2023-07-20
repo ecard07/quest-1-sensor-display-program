@@ -219,7 +219,6 @@ basic.showLeds(`
     . . . . .
     `)
 basic.forever(function () {
-    basic.showNumber()
 })```
 
 ## **Step 7** - Drag  **temperature** from the **Input** folder and place it into the **basic.forever loop**.
@@ -262,7 +261,6 @@ basic.showLeds(`
     . . . . .
     `)
 basic.forever(function () {
-    basic.showNumber(input.temperature())
 })```
 
 ## **Step 8** - Run the Program
