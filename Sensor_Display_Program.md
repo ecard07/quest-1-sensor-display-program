@@ -1,6 +1,6 @@
 # Sensor Display Program
-## **Step 1** - Drag a LED lights into the Start blocks.
-Drag a ``||LED lights||`` into ``||basic.showLeds||``
+## **Step 1** - Drag a basic showLeds into the Start blocks.
+Click on **basic** to select the ``||basic.showLeds||``. Then, drag the ``||basic.showLeds||`` into ``||basic.Start||`` block.
 ```blocks
 basic.showLeds(`
     # # # # #
@@ -10,8 +10,8 @@ basic.showLeds(`
     # # # # #
     `)```
 
-## **Step 2** - Drag a second LED lights into the LED lights
-Drag a ``||LED lights||`` into ``||LED lights||``
+## **Step 2** - Drag a second basic showLeds  into the first basic showLeds.
+Click on **basic** to select the ``||basic.showLeds||``. Then, drag a ``||basic.showLeds||`` into ``||basic.showLeds||``
 ```blocks
 basic.showLeds(`
     # # # # #
@@ -28,8 +28,8 @@ basic.showLeds(`
     . # # # #
     `)```
 
-## **Step 3** - Drag a third LED lights into the LED lights
-Drag a ``||LED lights||`` into ``||LED lights||``
+## **Step 3** - Drag a third basic showLeds into the second basic showLeds.
+Drag a ``||basic.showLeds||`` into ``||basic.showLeds||``
 ```blocks
 basic.showLeds(`
     # # # # #
@@ -53,8 +53,8 @@ basic.showLeds(`
     . # # # .
     `)```
 
-## **Step 4** - Drag a fourth LED lights into the LED lights.
-Drag a ``||LED lights||`` into ``||LED lights||``
+## **Step 4** - Drag a fourth basic showLeds into the third basic showLeds.
+Drag a ``||basic.showLeds||`` into ``||basic.showLeds||``
 ```blocks
 basic.showLeds(`
     # # # # #
@@ -85,8 +85,8 @@ basic.showLeds(`
     . # # . .
     `)```
 
-## **Step 5** - Drag a fifth LED lights into the LED lights.
-Drag a ``||LED lights||`` into ``||LED lights||``
+## **Step 5** - Drag a fifth basic showLeds into the fourth basic showLeds.
+Drag a ``||basic.showLeds||`` into ``||basic.showLeds||``
 ```blocks
 basic.showLeds(`
     # # # # #
