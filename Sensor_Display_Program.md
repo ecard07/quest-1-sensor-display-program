@@ -126,7 +126,7 @@ basic.showLeds(`
     . . . . .
     `)```
 
-## **Step 6** - Drag a **basic forever loop** from the basic folder.
+## **Step 6** - Drag a ** basic forever loop** from the basic folder.
 Drag a ``||basic.forever(function ()||`` 
 ```blocks
 basic.showLeds(`
@@ -208,8 +208,8 @@ basic.forever(function () {
     basic.showNumber()
 })```
 
-## **Step 7** - Drag  **temperature** from the **temperature folder** and place it into the **basic.forever loop**.
-Click on the **input** folder and drag a ``||input.temperature()||`` and place it into ``||basic.showNumber ()||``
+## **Step 7** - Drag  **temperature** from the **Input** folder and place it into the **basic.forever loop**.
+Click on the **Input** folder and drag a ``||input.temperature()||`` and place it into ``||basic.showNumber ()||``
 ```blocks
 basic.showLeds(`
     # # # # #
@@ -250,6 +250,6 @@ basic.forever(function () {
     basic.showNumber(input.temperature())
 })```
 
-##Step 8- Run the Program
+## **Step 8** - Run the Program
 You will add the temperature to display, by clicking on the thermometer. 
 You can lower or raise the temperature.
