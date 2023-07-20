@@ -1,5 +1,6 @@
 # Sensor Display Program
-You will animate the lights to display what you want. Be creative. 
+
+## You will animate the lights to display what you want, but first we will practice. 
 Then, you will add the temperature to display, by clicking on the thermometer. 
 You can lower or raise the temperature.
  
@@ -128,8 +129,8 @@ basic.showLeds(`
     . . . . .
     `)```
 
-## **Step 6** - Drag a basic forever loop and place it on top right.
-Drag a ``||basic.forever(function ()||`` and place it on the top.
+## **Step 6** - Drag a **basic forever loop**.
+Drag a ``||basic.forever(function ()||`` 
 ```blocks
 basic.showLeds(`
     # # # # #
@@ -168,7 +169,7 @@ basic.showLeds(`
     `)
 basic.forever(function ()```
 
-## **Step 7** - Drag a basic show Number and place it into the basic forever loop.
+## **Step 7** - Drag a basic **show Number** and place it into the **basic forever loop**.
 Drag a ``||basic.showNumber()||`` and place it into ``||basic.forever(function())||`` loop
 ```blocks
 basic.showLeds(`
@@ -210,7 +211,7 @@ basic.forever(function () {
     basic.showNumber()
 })```
 
-## **Step 7** - Drag a input temperature and place it into the basic forever loop.
+## **Step 7** - Drag a ** input temperature** and place it into the **basic forever loop**.
 Drag a ``||input.temperature()||`` and place it into ``||basic.showNumber ()||``
 ```blocks
 basic.showLeds(`
