@@ -2,7 +2,7 @@
 
 
 ## **Step 1** - Drag  **showLeds**  into the Start blocks.
-Click on **basic** folder to select the ``||basic.showLeds||``. Then, drag the ``||basic.showLeds||`` into ``||basic.Start||`` block.
+Click on ``||basic.basic||`` folder to select the ``||basic.showLeds||``. Then, drag the ``||basic.showLeds||`` into ``||basic.Start||`` block.
 ```blocks
 basic.showLeds(`
     # # # # #
@@ -13,7 +13,7 @@ basic.showLeds(`
     `)```
 
 ## **Step 2** - Drag a second **showLeds**  into the first **showLeds**
-Click on the  **basic** folder  to select the ``||basic.showLeds||``. Then, drag a ``||basic.showLeds||`` place it into ``||basic.showLeds||``
+Click on the  ``||basic.basic||`` folder  to select the ``||basic.showLeds||``. Then, drag a ``||basic.showLeds||`` place it into ``||basic.showLeds||``
 ```blocks
 basic.showLeds(`
     # # # # #
@@ -127,7 +127,7 @@ basic.showLeds(`
     `)```
 
 ## **Step 6** - Drag a ** basic forever loop** from the basic folder.
-Drag a ``||basic.forever(function ()||`` 
+Click on the ``||basic.basic||`` folder and drag a ``||basic.forever(function ()||`` 
 ```blocks
 basic.showLeds(`
     # # # # #
@@ -209,7 +209,7 @@ basic.forever(function () {
 })```
 
 ## **Step 7** - Drag  **temperature** from the **Input** folder and place it into the **basic.forever loop**.
-Click on the ``||input.input||`` folder and drag a ``||input.temperature()||`` and place it into ``||basic.showNumber ()||``
+Click on the ``||input.input||`` folder and drag a ``||input.temperature()||``  and place it into ``||basic.showNumber ()||``
 ```blocks
 basic.showLeds(`
     # # # # #
