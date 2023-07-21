@@ -1,8 +1,6 @@
 # Sensor Display Program
 
 
-
-
 ## Step 1
 Under the **toolbox** Click on ``||basic.basic||`` folder to select the ``||basic.showLeds||`` block.
 Then, drag the ``||basic.showLeds||`` into ``||basic.Start||`` block.
@@ -21,7 +19,7 @@ basic.showLeds(`
 
 ## Step 2
 Click on the ``||basic.basic||`` folder to select a second ``||basic.showLeds||`` block.
-Then, drag the ``||basic.showLeds||`` place it into the first ``||basic.showLeds||``
+Then, drag the ``||basic.showLeds||`` place it under the first ``||basic.showLeds||``
 Continue your animation
 ```blocks
 basic.showLeds(`
@@ -42,7 +40,7 @@ basic.showLeds(`
 
 
 ## Step 3
-Drag a third ``||basic.showLeds||`` block and place it into the second ``||basic.showLeds||``
+Drag a third ``||basic.showLeds||`` block and place it under the second ``||basic.showLeds||``
 Continue your animation
 ```blocks
 basic.showLeds(`
@@ -70,7 +68,7 @@ basic.showLeds(`
 
 
 ## Step 4
-Drag a fourth``||basic.showLeds||`` block and place it into third ``||basic.showLeds||``
+Drag a fourth``||basic.showLeds||`` block and place it under third ``||basic.showLeds||``
 Continue your animation
 
 
@@ -107,7 +105,7 @@ basic.showLeds(`
 
 
 ## Step 5
-Drag a fifth ``||basic.showLeds||`` block and place it into the fourth``||basic.showLeds||``
+Drag a fifth ``||basic.showLeds||`` block and place it under the fourth``||basic.showLeds||``
 Continue your animation
 
 
@@ -153,7 +151,7 @@ basic.showLeds(`
 
 
 ## Step 6
-Drag a ``||basic.showNumber()||`` and place it into ``||basic.forever()||`` loop 
+Click on the ``||basic.basic||`` folder to select  ``||basic.showNumber()||`` and place it into ``||basic.forever()||`` loop 
 
 ```blocks
 basic.showLeds(`
