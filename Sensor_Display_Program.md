@@ -21,7 +21,7 @@ basic.showLeds(`
 
 ## Step 2
 Click on the ``||basic.basic||`` folder to select a second ``||basic.showLeds||`` block.
-Then, drag a ``||basic.showLeds||`` place it into the first ``||basic.showLeds||``
+Then, drag the ``||basic.showLeds||`` place it into the first ``||basic.showLeds||``
 Continue your animation
 ```blocks
 basic.showLeds(`
@@ -42,7 +42,7 @@ basic.showLeds(`
 
 
 ## Step 3
-Drag a third ``||basic.showLeds||`` block and place it into second ``||basic.showLeds||``
+Drag a third ``||basic.showLeds||`` block and place it into the second ``||basic.showLeds||``
 Continue your animation
 ```blocks
 basic.showLeds(`
@@ -247,6 +247,6 @@ basic.showNumber(input.temperature())
 
 
 
-## Step 7
+## Step 8
 To run the program you will click on the thermometer to display the temperature.
 You can lower or raise the temperature.
